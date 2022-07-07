@@ -1,0 +1,6 @@
+{
+"freelanceHome":"//img[contains(@alt,'Freelancer logo')]",
+"earnMoneyButton":"//fl-button[contains(@class,'Ctas-button')]/a[contains(text(),' Earn Money Freelancing ')]",
+"freelanceSignUp":"//app-invitation-action[contains(text(),'Sign')]"
+}
+

@@ -1,0 +1,26 @@
+{
+  "name": "jestvanilla",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "jest -i",
+    "testParallel": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "selenium-webdriver": "^4.1.1"
+  },
+  "jest": {
+    "modulePaths": [],
+    "testMatch": [
+      "<rootDir>/testSuite/suite2.test.js"
+    ]
+  },
+  "devDependencies": {
+    "chromedriver": "^99.0.0",
+    "jest": "^27.5.1"
+  }
+}

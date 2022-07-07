@@ -1,0 +1,9 @@
+{
+"advancedButton":"",
+"continueLink":"",   
+"userName":"//input[@name='webUser']",
+"pasword":"//input[@name='webPass']",
+"login":"//input[@id='cmdLogin']",
+"homePage":""
+}
+

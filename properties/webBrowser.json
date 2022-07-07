@@ -1,0 +1,21 @@
+{
+    "chrome" :{
+    "browserName" : "chrome",
+    "chromeOptions": {
+        "args": ["--user-date-dir"]
+    }
+} ,
+"android":
+{
+        "platformName": "Android",
+        "platformVersion": "11",
+        "deviceName": "R9PT20H7RDD",
+        "appPackage": "com.xxxx.xxxxxx",
+        "appActivity":"com.xxxxx.xxxxx.activities.appselect.AppSelectActivity",
+        "browserName":"",
+        "noReset":"true"
+
+}
+,
+"appiumHub": "http://localhost:4723/wd/hub"
+}
